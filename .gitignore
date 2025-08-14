@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Django
+/static/
+/media/
+
+# Node
+node_modules/
+dist/
+
+# Env
+.env
